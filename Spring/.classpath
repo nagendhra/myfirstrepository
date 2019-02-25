@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-aop-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-aop-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-aspects-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-aspects-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-aspects-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-beans-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-beans-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-context-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-context-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-context-support-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-context-support-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-context-support-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-core-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-core-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-expression-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-expression-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-instrument-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-instrument-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-instrument-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-instrument-tomcat-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-instrument-tomcat-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-instrument-tomcat-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-jdbc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-jdbc-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-jdbc-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-jms-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-jms-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-jms-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-messaging-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-messaging-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-messaging-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-orm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-orm-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-orm-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-oxm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-oxm-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-oxm-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-test-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-test-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-test-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-tx-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-tx-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-web-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-web-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-web-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-portlet-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-portlet-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-webmvc-portlet-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-websocket-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-websocket-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-websocket-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.eclipse/org.spring/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derby.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_cs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_de_DE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_hu.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_it.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_ja_JP.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_ko_KR.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_pl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_pt_BR.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_ru.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_zh_CN.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyLocale_zh_TW.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbynet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyoptionaltools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbyrun.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/derby db/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derbytools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
